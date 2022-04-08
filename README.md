@@ -1,5 +1,5 @@
 # Enumerable
-> This program implements the all?, any?, and filter methods that have the same funcionality as methods in Ruby Enumerable model.
+> This program implements the all?, any?, and filter methods that have the same funcionality as methods in Ruby Enumerable module.
 
 
 ## Built With
